@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\trisgelar\\envs\\dash\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\trisgelar\\envs\\dash\\Scripts\\python.exe",
+    "python.linting.pylintArgs": [
+        "--disable=E1101"
+    ],
 }
