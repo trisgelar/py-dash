@@ -30,4 +30,3 @@ def output(n_clicks, number):
 
 if __name__ == '__main__':
     APP.run_server()
-
